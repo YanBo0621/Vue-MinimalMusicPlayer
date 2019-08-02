@@ -36,7 +36,7 @@ npm install // 安装依赖
 node app.js // 服务端运行 访问 http://localhost:3000
 ```
 
-#### 运行 mmPlayer 后无法获取音乐请检查后台服务器是否启动
+#### 运行 Player 后无法获取音乐请检查后台服务器是否启动
 
 #### src/config 的 URL 地址要和后台服务器地址一致
 
