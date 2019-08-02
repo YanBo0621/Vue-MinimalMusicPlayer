@@ -1,8 +1,10 @@
-# mmPlayer
+# Vue-MinimalMusicPlayer
 
 模仿 QQ 音乐网页版界面，采用 flexbox 和 position 布局；
-mmPlayer 虽然是响应式，但主要以为 PC 端为主，移动端只做相应适配（未做歌词显示）；
-只做主流浏览器兼容（对 IE 说拜拜，想想以前做项目还要兼容 IE7 ，都是泪啊！！！）
+
+
+虽然是响应式，但主要以为 PC 端为主，移动端只做相应适配（未做歌词显示）；
+
 
 > api：一个开源的[网易云音乐 NodeJS 版 API](https://binaryify.github.io/NeteaseCloudMusicApi)
 
@@ -13,7 +15,7 @@ mmPlayer 虽然是响应式，但主要以为 PC 端为主，移动端只做相�
 ```
 git clone https://github.com/YanBo0621/Vue-MinimalMusicPlayer.git  //下载 mmPlayer
 
-cd mmPlayer // 进入 mmPlayer 播放器目录
+cd Vue-MinimalMusicPlayer // 进入 mmPlayer 播放器目录
 
 npm install // 安装依赖
 
